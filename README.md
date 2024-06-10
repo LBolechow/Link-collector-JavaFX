@@ -1,0 +1,1 @@
+Aplikacja desktopowa napisana w języku Java, służąca do wyszukiwania i wyświetlania wszystkich linków znalezionych na podanej przez użytkownika stronie internetowej. Interfejs użytkownika został wykonany przy użyciu JavaFX.
